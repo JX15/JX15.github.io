@@ -14,6 +14,8 @@ layout: post
 title: 文章标题
 category: 分类
 summary: 一句话摘要
+# 可选：写了 poem，文章页顶部就显示这句话（大字今楷），不写则显示标题
+poem: 逝者如斯夫，不舍昼夜。
 ---
 ```
 
