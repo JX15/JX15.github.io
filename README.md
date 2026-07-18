@@ -1,4 +1,4 @@
-# JX95 的个人博客
+# JX15 的个人博客
 
 - 站点地址：<https://jx15.github.io>
 - 基于 Jekyll，托管在 GitHub Pages，推送到 `main` 分支后由 GitHub Actions 自动构建部署。

@@ -1,4 +1,4 @@
-const CACHE_NAME = "jx95-cache-v1";
+const CACHE_NAME = "jx15-cache-v1";
 const FONT_BASE_URL = "https://gw.alipayobjects.com/os/k/jinkai/";
 const IMMUTABLE_ASSETS = [
   "https://avatars.githubusercontent.com/u/67221128", // Favicon/Logo

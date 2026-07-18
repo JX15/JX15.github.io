@@ -1,6 +1,6 @@
 # Site Information
-title: JX95
-description: "JX95 的个人博客，记录技术与生活思考"
+title: JX15
+description: "JX15 的个人博客，记录技术与生活思考"
 url: https://jx15.github.io
 repo: JX15/JX15.github.io
 lang: zh-CN
@@ -9,7 +9,7 @@ timezone: Asia/Shanghai
 
 # Author Information (for SEO and AI crawlers)
 author:
-  name: JX95
+  name: JX15
   email: emailjx@163.com
   url: https://jx15.github.io
   github: JX15
