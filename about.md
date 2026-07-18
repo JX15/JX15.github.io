@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about.html
 hideHomeActive: true
+poem: About
 ---
 
 ## 关于我

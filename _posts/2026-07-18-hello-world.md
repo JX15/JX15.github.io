@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 category: 生活
 summary: 博客开张了——写 Markdown、git push，剩下交给 GitHub。
-poem: About
+poem: 万事开头难
 ---
 
 这是本博客的第一篇文章。
